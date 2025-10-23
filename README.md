@@ -37,5 +37,5 @@ This project demonstrates how to scrape structured data from websites using Pyth
 
 ## Results
 
-The project successfully scraped and structured website data, performed cleaning and exploratory analysis, and provided visual insights into patterns, distributions, and anomalies.
+The project successfully scraped and structured website data, next steps would be to apply this technique to dynamic websites instead of the static to get better grasp on things. 
 
